@@ -8,7 +8,7 @@ public class SMSLogger extends Logger{
     }
 
     void write(String message) {
-        System.out.println("E-mail message : " + message);
+        System.out.println("SMS message : " + message);
     }
 
 }
